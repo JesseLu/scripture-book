@@ -1,0 +1,174 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.9.1)  4 JUN 2013 03:11
+entering extended mode
+ %&-line parsing enabled.
+**1Cor13:1-7.tex
+(./1Cor13:1-7.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+) (./1Cor13:1-7.aux)
+\openout1 = `1Cor13:1-7.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+-------------------- Geometry parameters
+paper: a5paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 50.87402pt, 0.7\paperwidth , 76.3111pt (default)
+v-parts: 71.70166pt, 0.7\paperheight , 107.55254pt (default)
+hmarginratio: 2:3
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  423.94606pt
+\paperheight 597.50787pt
+\textwidth  296.76094pt
+\textheight 418.25368pt
+\oddsidemargin  -21.39597pt
+\evensidemargin 4.0411pt
+\topmargin  -30.63582pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   25.29494pt
+\marginparwidth 51.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<cymbal.jpg, id=7, 1027.84pt x 944.52875pt>
+File: cymbal.jpg Graphic file (type jpg)
+ <use cymbal.jpg> [2 <./cymbal.jpg>] <book.jpg, id=12, 433.62pt x 351.3125pt>
+File: book.jpg Graphic file (type jpg)
+ <use book.jpg> [3 <./book.jpg>]
+<money.jpg, id=16, 556.0775pt x 567.11874pt>
+File: money.jpg Graphic file (type jpg)
+ <use money.jpg> [4 <./money.jpg>]
+<clock.jpg, id=20, 1024.82875pt x 1027.84pt>
+File: clock.jpg Graphic file (type jpg)
+ <use clock.jpg> [5 <./clock.jpg>]
+<shout.jpg, id=24, 381.425pt x 307.1475pt>
+File: shout.jpg Graphic file (type jpg)
+ <use shout.jpg> [6 <./shout.jpg>]
+<shove.jpg, id=28, 64.8021pt x 42.1575pt>
+File: shove.jpg Graphic file (type jpg)
+ <use shove.jpg> [7 <./shove.jpg>]
+<donkey.jpg, id=33, 672.5125pt x 823.075pt>
+File: donkey.jpg Graphic file (type jpg)
+ <use donkey.jpg> [8 <./donkey.jpg>] <angry.jpg, id=37, 702.625pt x 1184.425pt>
+File: angry.jpg Graphic file (type jpg)
+ <use angry.jpg> [9 <./angry.jpg>]
+<rejoice.jpg, id=41, 616.3025pt x 469.755pt>
+File: rejoice.jpg Graphic file (type jpg)
+ <use rejoice.jpg> [10 <./rejoice.jpg>] <heart.jpg, id=45, 240.9pt x 170.5572pt
+>
+File: heart.jpg Graphic file (type jpg)
+ <use heart.jpg> [11 <./heart.jpg>] (./1Cor13:1-7.aux) ) 
+Here is how much of TeX's memory you used:
+ 972 strings out of 95086
+ 12453 string characters out of 1183256
+ 61529 words of memory out of 1500000
+ 4183 multiletter control sequences out of 10000+50000
+ 7028 words of font info for 25 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 25i,6n,21p,206b,185s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texli
+ve/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/blues
+ky/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr17.pfb>
+Output written on 1Cor13:1-7.pdf (11 pages, 1384360 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
